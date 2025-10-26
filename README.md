@@ -28,7 +28,7 @@ src/
 ├── assets/ # Static assets
 └── App.vue # Root component
 
-
+lIVE demo :  https://ticketsmaster.netlify.app
 ## Setup and Installation
 
 1. **Install dependencies**:
